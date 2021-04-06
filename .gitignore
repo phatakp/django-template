@@ -1,8 +1,6 @@
 *.log
 *.pot
 *.pyc
-*.env
 __pycache__
 .vscode/
-run/
 env/
