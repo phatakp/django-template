@@ -3,6 +3,12 @@
 ## Steps to use
 -------------------------------
 <br/>
+
+### Create a new folder and move into it
+`mkdir <folder-name>`
+`cd <folder-name>`
+<br/>
+
 ### Create a Virtual environment
 `python -m venv <envname>`
 <br/>
