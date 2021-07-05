@@ -1,16 +1,8 @@
 # Django Boilerplate Custom Template
 
 ## Steps to use
-
-### Create a new folder for project source
-`mkdir <proj_folder>`
+-------------------------------
 <br/>
-
-### Move into the project source folder
-`cd <proj_folder>`
-
-<br/>
-
 ### Create a Virtual environment
 `python -m venv <envname>`
 <br/>
@@ -41,5 +33,15 @@
 `pip install -r ./requirements.txt'`
 
 <br/>
+
+### Move into project source folder
+`cd source`
+<br/>
+
+### Run Django migrate
+`python manage.py makemigrations`
+`python manage.py migrate`
+<br/>
+
 
 ### You are now good to go!!
